@@ -16,7 +16,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:Rushikesh.Sutone.rushikeshsutone0@gmail.com">
+   <a href="mailto:pedro.sales.rushikeshsutone0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/rushikesh-sutone-833410251/" target="_blank">
